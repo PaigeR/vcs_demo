@@ -865,7 +865,9 @@
         
         
         
+        
         <Bands xmlns="http://www.soasta.com/services/repository">
+          
           
           
           
@@ -2591,7 +2593,9 @@
             
             
             
+            
             <Description xmlns="http://www.soasta.com/services/repository" />
+          
           
           
           
@@ -4317,7 +4321,9 @@
         
         
         
+        
         </Bands>
+        
         
         
         
@@ -6043,7 +6049,9 @@
           
           
           
+          
           <Track enabled="1" name="Track 1" scope="private" xmlns="http://www.soasta.com/services/repository">
+            
             
             
             
@@ -7769,7 +7777,9 @@
               
               
               
+              
               <Band name="Band 1" xmlns="http://www.soasta.com/services/repository">
+                
                 
                 
                 
@@ -9495,7 +9505,9 @@
                   
                   
                   
+                  
                   <Clip displayWidth="1" enabled="1" endSlot="0" failure-action="fail" name="Clip for soasta" ref="0" scope="private" startSlot="0" xmlns="http://www.soasta.com/services/repository" />
+                
                 
                 
                 
@@ -11221,7 +11233,9 @@
               
               
               
+              
               </Band>
+            
             
             
             
@@ -12947,7 +12961,9 @@
             
             
             
+            
             <Distributions xmlns="http://www.soasta.com/services/repository">
+              
               
               
               
@@ -14673,7 +14689,9 @@
                 
                 
                 
+                
                 <Places xmlns="http://www.soasta.com/services/repository">
+                  
                   
                   
                   
@@ -16399,7 +16417,9 @@
                 
                 
                 
+                
                 </Places>
+              
               
               
               
@@ -18125,7 +18145,9 @@
             
             
             
+            
             </Distributions>
+          
           
           
           
@@ -19851,7 +19873,9 @@
         
         
         
+        
         </Tracks>
+        
         
         
         
@@ -21577,7 +21601,9 @@
           
           
           
+          
           <PersistResult setting="true" xmlns="http://www.soasta.com/services/repository" />
+          
           
           
           
@@ -23303,7 +23329,9 @@
           
           
           
+          
           <SaveAnalysisCompElementDetails setting="true" xmlns="http://www.soasta.com/services/repository" />
+          
           
           
           
@@ -25029,7 +25057,9 @@
             
             
             
+            
             <Composition level="verbose" xmlns="http://www.soasta.com/services/repository" />
+            
             
             
             
@@ -26755,7 +26785,9 @@
             
             
             
+            
             <Track level="verbose" xmlns="http://www.soasta.com/services/repository" />
+            
             
             
             
@@ -28481,7 +28513,9 @@
             
             
             
+            
             <Chain level="verbose" xmlns="http://www.soasta.com/services/repository" />
+            
             
             
             
@@ -30207,7 +30241,9 @@
             
             
             
+            
             <Transaction level="verbose" xmlns="http://www.soasta.com/services/repository" />
+            
             
             
             
@@ -31933,7 +31969,9 @@
             
             
             
+            
             <If level="verbose" xmlns="http://www.soasta.com/services/repository" />
+            
             
             
             
@@ -33659,7 +33697,9 @@
             
             
             
+            
             <Message level="verbose" xmlns="http://www.soasta.com/services/repository" />
+            
             
             
             
@@ -35385,7 +35425,9 @@
             
             
             
+            
             <AppAction level="verbose" xmlns="http://www.soasta.com/services/repository" />
+            
             
             
             
@@ -37111,7 +37153,9 @@
             
             
             
+            
             <Transition level="verbose" xmlns="http://www.soasta.com/services/repository" />
+            
             
             
             
@@ -38837,7 +38881,9 @@
             
             
             
+            
             <Delay level="verbose" xmlns="http://www.soasta.com/services/repository" />
+            
             
             
             
@@ -40563,7 +40609,9 @@
             
             
             
+            
             <Target level="verbose" xmlns="http://www.soasta.com/services/repository" />
+            
             
             
             
@@ -42289,7 +42337,9 @@
             
             
             
+            
             <Validation level="verbose" xmlns="http://www.soasta.com/services/repository" />
+          
           
           
           
@@ -44015,7 +44065,9 @@
           
           
           
+          
           <ContainerAnalytics xmlns="http://www.soasta.com/services/repository">
+            
             
             
             
@@ -45741,7 +45793,9 @@
             
             
             
+            
             <Chain enabled="true" xmlns="http://www.soasta.com/services/repository" />
+            
             
             
             
@@ -47467,7 +47521,9 @@
             
             
             
+            
             <Transaction enabled="true" xmlns="http://www.soasta.com/services/repository" />
+            
             
             
             
@@ -49193,7 +49249,9 @@
             
             
             
+            
             <If enabled="true" xmlns="http://www.soasta.com/services/repository" />
+            
             
             
             
@@ -50919,7 +50977,9 @@
             
             
             
+            
             <Burst enabled="true" xmlns="http://www.soasta.com/services/repository" />
+          
           
           
           
@@ -52645,7 +52705,9 @@
           
           
           
+          
           <ForceGC setting="false" xmlns="http://www.soasta.com/services/repository" />
+          
           
           
           
@@ -54371,7 +54433,9 @@
           
           
           
+          
           <HaltOnError setting="element-settings" xmlns="http://www.soasta.com/services/repository" />
+        
         
         
         
@@ -56097,7 +56161,9 @@
         
         
         
+        
         <Monitoring deviceAgentMonitoring="true" xmlns="http://www.soasta.com/services/repository" />
+      
       
       
       
@@ -56963,15 +57029,15 @@
       </Composition>
     </Body>
     <BinaryData />
-    <Description>Modified for first commit, expected to be in original repository after push.1449108295138</Description>
+    <Description>Modified for first commit, expected to be in original repository after push.1449109001842</Description>
     <Attributes>
       <Attribute name="userData">
         <Value null="true" />
       </Attribute>
     </Attributes>
     <References>
-      <Reference id="479" internalID="1" name="Result Details Dashboard" path="/System Objects/Dashboards" type="dashboard" />
-      <Reference id="525015" internalID="0" name="Clip for soasta" path="/" type="messageclip" />
+      <Reference id="447" internalID="1" name="Result Details Dashboard" path="/System Objects/Dashboards" type="dashboard" />
+      <Reference id="55073516" internalID="0" name="Clip for soasta" path="/" type="messageclip" />
     </References>
     <TipText></TipText>
   </Object>
