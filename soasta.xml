@@ -205,7 +205,7 @@
       </Target>
     </Body>
     <BinaryData />
-    <Description>HEY</Description>
+    <Description>HEY description</Description>
     <Attributes>
       <Attribute name="type">
         <Value>service</Value>
